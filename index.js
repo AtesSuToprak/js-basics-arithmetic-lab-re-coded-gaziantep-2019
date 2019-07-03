@@ -7,7 +7,7 @@ let multiply = var1 * var2 ;
 
 let random = Math.floor(Math.random()*10);
 
-let mod = 0;
+let mod;
 
 mod %= 4;
 
